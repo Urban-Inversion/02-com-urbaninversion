@@ -12,14 +12,14 @@
 			</p>
 			<p>
 				Poetically speaking, that perfectly captures the character and lifespan of the former
-				bookstore & community hang-out located on Santa Monica Boulevard in West Hollywood.
+				bookstore & community hang-out located on Santa Monica Boulevard in West Hollywood. 
+
 			</p>
 
 			<p>
 				Thanks to a neighborhood computer whiz, it offered on-line book purchases starting in 1995
-				at the same time as or just ahead of the behemoth that would all come to know as Amazon.
-				Given its political bent, it was not without its controversy.
-			</p>
+				at the same time as or before the behemoth that would all come to know as Amazon.
+							</p>
 		</div>
 	</div>
 </div>
