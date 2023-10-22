@@ -18,7 +18,7 @@
 
 			<p>
 				Thanks to a neighborhood computer whiz, it offered on-line book purchases starting in 1995
-				at the same time as or before the behemoth that would all come to know as Amazon.
+				at the same time as or before the behemoth that we would all come to know as Amazon.
 							</p>
 		</div>
 	</div>
