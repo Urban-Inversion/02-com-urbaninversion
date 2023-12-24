@@ -20,11 +20,14 @@
 		"eslint-config-prettier": "^8.5.0",
 		"eslint-plugin-svelte3": "^4.0.0",
 		"prettier": "^2.8.0",
-		"prettier-plugin-svelte": "^2.8.1",
-		"svelte": "^3.54.0",
-		"svelte-check": "^2.9.2",
-		"typescript": "^4.9.3",
+		"prettier-plugin-svelte": "^2.10.1",
+		"svelte": "^4.0.0",
+		"svelte-check": "^3.4.3",
+		"typescript": "^5.0.0",
 		"vite": "^4.0.0"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"wrangler": "^3.1.1"
+	}
 }
